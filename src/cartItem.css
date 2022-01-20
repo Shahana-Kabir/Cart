@@ -1,0 +1,14 @@
+.cartItem__sides{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    display: flex;
+}
+
+.cartItem__img{
+    width: 10rem;
+    height: 10rem;
+}
+
+.cartItem__right{
+    margin-left: 25rem;
+}
